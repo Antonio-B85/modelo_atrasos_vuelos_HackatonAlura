@@ -140,3 +140,12 @@ Proyecto desarrollado para la **Hackatón G8 Alura-No Country** por un equipo mu
 ✔ MVP funcional  
 ✔ Modelo entrenado y evaluado  
 ✔ Modelo validado para consumo vía API en producción
+
+---
+
+## 👥 Equipo
+Proyecto desarrollado como parte del Hackathon de Alura Latam (Oracle).
+
+Equipo: H12-25-L-Equipo 24 - FlightOnTime
+
+---
